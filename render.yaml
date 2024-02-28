@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: blanklegality
+    env: docker
+    plan: free
